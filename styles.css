@@ -30,12 +30,17 @@ font-size: 40px;
 }
 
 .keyboard
-{padding:40px;
+{padding:10px;
 float: right;
+margin-right:40px;
+margin-top: 5px
 }
 
 a:link
 {
 background-color:yellow;
- 
+padding: 10pt;
+margin-left: 70pt; 
+margin-top: 60px;
+
 }
